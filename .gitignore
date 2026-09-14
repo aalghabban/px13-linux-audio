@@ -1,0 +1,13 @@
+firmware/
+*.bin
+*.exe
+*.dll
+*.sys
+*.deb
+*.zip
+*.tar.gz
+outer/
+payload/
+__pycache__/
+*.pyc
+*.log
